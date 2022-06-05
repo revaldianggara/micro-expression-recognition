@@ -1,0 +1,8 @@
+# .gitignore
+
+utilities.py
+/pictures/*
+/datasets/*
+/training/*
+/recordings/*
+/.idea/*

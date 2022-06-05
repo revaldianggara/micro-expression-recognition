@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>itenas.png</file>
+  </qresource>
+</RCC>
