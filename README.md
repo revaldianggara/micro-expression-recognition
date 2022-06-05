@@ -1,4 +1,4 @@
-# AUFR: Authenticate Using Face Recognition
+# Micro Expression Recognition Using Local Binary Pattern (LBP)
 
   ![Gui Application View](icon/aufr.png?raw=true "PyQt GUI")
 
