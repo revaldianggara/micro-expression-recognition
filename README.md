@@ -27,11 +27,7 @@
  - ```$ conda install opencv=*.*```
  - ```$ conda install -c michael_wild opencv-contrib```
 
-### 4. Clone Repository
- - Clone ```$ git clone https://github.com/indian-coder/authenticate-using-face-recognition.git aufr```
- - Cd into aufr ```$ cd aufr```
-
-### 5. Execute Application
+### 4. Execute Application
  - Execute  ```$ python main.py```
 
 	Note:Generate atleat two datasets to work properly.
