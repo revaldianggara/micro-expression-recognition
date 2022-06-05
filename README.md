@@ -1,6 +1,6 @@
 # Micro Expression Recognition Using Local Binary Pattern (LBP)
 
-!Block diagram (https://user-images.githubusercontent.com/48756138/172045353-471d918c-4789-41b3-9cc3-2aff324d7a75.png)
+! Block diagram (https://user-images.githubusercontent.com/48756138/172045353-471d918c-4789-41b3-9cc3-2aff324d7a75.png)
 
 ## Algorithms Implemented
   - Eigenfaces
