@@ -42,3 +42,6 @@
 ## Resources
   - [OpenCV face Recognition](https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html)
   - [PyQt5 Documentation](http://pyqt.sourceforge.net/Docs/PyQt5/)
+
+## LBP refernece
+https://www.researchgate.net/publication/220939185_Iris_Extraction_Based_on_Intensity_Gradient_and_Texture_Difference
